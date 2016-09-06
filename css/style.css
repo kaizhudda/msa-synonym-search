@@ -1,0 +1,18 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.jumbotron {
+    background-color: deepskyblue;
+    color: white; 
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+#placeData {
+    font-size: 20px; 
+    text-align: center;
+    padding-top: 30px; 
+
+}
